@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+/src1
+/public1
+/garbage
+/src/components/portfolio
+/src/assets
