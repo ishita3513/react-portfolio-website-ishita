@@ -1,6 +1,6 @@
 .container.achievements__container{
     width:40%;
-    padding: 1rem;    
+    padding-bottom: 1rem;    
     border-radius: 1rem;
     background: var(--color-bg-variant);
     color: var(--color-white);
