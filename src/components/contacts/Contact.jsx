@@ -1,6 +1,6 @@
 import React from 'react'
 import './contact.css'
-import {MdOutlineEmail} from 'react-icons/md'
+// import {MdOutlineEmail} from 'react-icons/md'
 // import {BsWhatsapp} from 'react-icons/bs'
 import { useRef as UseRef} from 'react'
 import emailjs from 'emailjs-com'
