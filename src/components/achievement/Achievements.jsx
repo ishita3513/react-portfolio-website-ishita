@@ -51,7 +51,7 @@ const Achievements = () => {
                   <small className="about">{about}</small>
                 </div>
                 <div className='link'>
-                  <a href={link} className='btn' target='_blank'>Check</a>
+                  <a href={link} className='btn' target='_blank' rel="noreferrer">Check</a>
                 </div>
               </SwiperSlide>
             )

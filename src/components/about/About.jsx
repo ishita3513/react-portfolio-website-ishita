@@ -6,7 +6,7 @@ import {FaAward} from 'react-icons/fa'
 // import {FiTarget} from 'react-icons/fi'
 import {ImTarget} from 'react-icons/im'
 import {TbBooks} from 'react-icons/tb'
-import {VscFolderLibrary} from 'react-icons/vsc'
+// import {VscFolderLibrary} from 'react-icons/vsc'
 const about = () => {
   return (
     <section id='about'>
